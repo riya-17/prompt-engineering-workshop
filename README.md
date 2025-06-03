@@ -1,5 +1,3 @@
-# prompt-engineering-workshop
-
 # Prompt Engineering Workshop
 
 Welcome to **Prompt Engineering Workshop**, a hands-on workshop where you'll learn to run and use prompts using [Ollama](https://ollama.com/).
