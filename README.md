@@ -8,7 +8,7 @@ By the end of this workshop, you will:
 
 - Run and interact with language models locally using the `ollama` CLI
 - Use Python (`chatbot.py`) to call Ollama’s API
-- Will have good aknowledge around prompt engineering which will make your interaction with LLMs easier
+- Will have good knowledge around prompt engineering which will make your interaction with LLMs easier
 
 ---
 
